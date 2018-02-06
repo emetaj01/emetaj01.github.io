@@ -1,14 +1,24 @@
 body {
-    background-color: lightblue;
+    background-image: url("modernOrange.jpg"); 
+    background-attachment: fixed;
 }
+
 
 h1 {
     text-align: center;
-    color: red;
+    color: rgb(254, 119, 1);
+    font-style: oblique;
+    font-size: 50px;
 }
 
+h2 {
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+}
 
 p {
+    color: rgb(254, 119, 1);
     text-align: center;
-    color: red;
+    font-style: comic;
 }
