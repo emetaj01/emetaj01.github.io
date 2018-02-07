@@ -15,10 +15,25 @@ h2 {
     color: white;
     font-style: italic;
     font-size: 30px;
+    border-style: groove;
+    border-color: grey
 }
 
 p {
     color: rgb(254, 119, 1);
     text-align: center;
-    font-style: comic;
+    font-family : comic ;
+}
+
+.homepage {
+
+	border-style:  ridge;
+	border-color: orange;
+	margin-left: 35%;
+	margin-right: 35%;
+}
+
+a{
+	color: red;
+	font-size: 25px;
 }
