@@ -28,22 +28,9 @@ h3{
 
 
 a{
-    text-align: center;
     color: rgb(254, 119, 1);
     font-style: oblique;
     font-size: 30px;
 }
 
-a:visted {
-    text-align: center;
-    color: green;
-    font-style: oblique;
-    font-size: 30px;
-}
 
-a:hover {
-    text-align: center;
-    color: blue;
-    font-style: oblique;
-    font-size: 30px;
-}
